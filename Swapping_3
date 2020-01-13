@@ -3,4 +3,4 @@ b=int(input("Enter 2nd number: "))
 temp=a
 a=b
 b=temp
-print("1st number is:"+ a +"\n2nd number is:"+ b)
+print("1st number is:", a ,"\n2nd number is:", b)
