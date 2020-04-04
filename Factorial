@@ -1,0 +1,7 @@
+a=int(input("Enter a number: "))
+temp=a
+fact=1
+while(temp):
+    fact=fact*temp
+    temp-=1
+print("Factorial of",a,"is:",fact)
